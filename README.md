@@ -1,2 +1,2 @@
 # Unix-Shell-implementation
-Support ןnterpreting and executing unix commands, pipes and I/O Redirection.
+Support interpreting and executing unix commands, pipes and I/O Redirection.
